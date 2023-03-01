@@ -1,6 +1,6 @@
 # Código fuente del curso de TypeScript
 
-Esto es parte de mi curso de TypeScript que enseño en Udemu
+Esto es parte de mi curso de TypeScript que enseño en Udemy
 [Curso completo de TypeScript](https://fernando-herrera.com/#/search/tu%20completa%20gu%C3%ADa)
 
 
